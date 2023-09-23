@@ -1,0 +1,23 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": [
+    {
+      "index": 1,
+      "etag": "\"7a1bcba73b5a3f2b60d408ded662e4b7d82e78fe95866455c448af6849721735\"",
+      "release_tags": [
+        "todolist-v1.1.1",
+        "todolist-v1.0.3",
+        "todolist-v1.0.2",
+        "todolist-v1.0.1",
+        "todolist-v1.0.0"
+      ],
+      "empty": false
+    },
+    {
+      "index": 2,
+      "etag": "\"1db6a3a21548bf6e068a9a9337e4151e9d1135718e089e7e62dc0509406337bf\"",
+      "release_tags": [],
+      "empty": true
+    }
+  ]
+}

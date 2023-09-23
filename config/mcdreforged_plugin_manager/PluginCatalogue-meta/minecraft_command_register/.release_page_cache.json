@@ -1,0 +1,33 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": [
+    {
+      "index": 1,
+      "etag": "\"64b2315d989abf7cc0df1fc3819ac4b09b0258a29be44e01ceeec9140eb9afe5\"",
+      "release_tags": [
+        "minecraft_command_register-v1.5.1",
+        "minecraft_command_register-v1.5.0",
+        "minecraft_command_register-v1.4.1",
+        "minecraft_command_register-v1.4.0",
+        "minecraft_command_register-v1.3.2",
+        "minecraft_command_register-v1.3.1",
+        "minecraft_command_register-v1.3.0",
+        "minecraft_command_register-v1.2.4",
+        "minecraft_command_register-v1.2.3",
+        "minecraft_command_register-v1.2.2",
+        "minecraft_command_register-v1.2.1",
+        "minecraft_command_register-v1.2.0",
+        "minecraft_command_register-v1.1.1",
+        "minecraft_command_register-v1.1.0",
+        "minecraft_command_register-v1.0.0"
+      ],
+      "empty": false
+    },
+    {
+      "index": 2,
+      "etag": "\"1db6a3a21548bf6e068a9a9337e4151e9d1135718e089e7e62dc0509406337bf\"",
+      "release_tags": [],
+      "empty": true
+    }
+  ]
+}

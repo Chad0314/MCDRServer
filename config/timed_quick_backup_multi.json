@@ -1,0 +1,6 @@
+{
+    "enabled": true,
+    "interval": 300.0,
+    "permission_requirement": 2,
+    "require_online_players": false
+}

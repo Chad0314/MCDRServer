@@ -1,0 +1,22 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": [
+    {
+      "index": 1,
+      "etag": "\"64b2315d989abf7cc0df1fc3819ac4b09b0258a29be44e01ceeec9140eb9afe5\"",
+      "release_tags": [
+        "qq_chat-v2.1.0",
+        "qq_chat-v2.0.0",
+        "qq_chat-v1.0.1",
+        "qq_chat-v1.0.0"
+      ],
+      "empty": false
+    },
+    {
+      "index": 2,
+      "etag": "\"1db6a3a21548bf6e068a9a9337e4151e9d1135718e089e7e62dc0509406337bf\"",
+      "release_tags": [],
+      "empty": true
+    }
+  ]
+}

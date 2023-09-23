@@ -1,0 +1,14 @@
+{
+    "permission_requirement": 0,
+    "max_import_size": 10485760,
+    "file_per_page": 10,
+    "directories": {
+        "schems": {
+            "path": "./server/schematics",
+            "permission": {
+                "read": 0,
+                "write": 0
+            }
+        }
+    }
+}
